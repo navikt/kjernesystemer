@@ -1,7 +1,7 @@
 # Kjernetjenester
 Tanken er å lage en liste over tjenestene flertallet av poer har behov for å forholde seg til.
 
-## Tpalttfomr/felles
+## Palttfomr/felles
 
 ### palttfomr  
 paltform  
