@@ -17,10 +17,16 @@ sms/epost til sluttbruker, vises på dittnav
 
 ### digdir-krr
 Kontaktiformaskjon fra kontakt og reservaskjonsregistret.
-Reservaskjon mot digital komunikasjon.
+Reservaskjon mot digital komunikasjon.  
 https://github.com/navikt/digdir-krr/wiki/dkif-(REST)-→-digdir-krr-proxy-(REST)
 
 ## veileder
+
+### NAV Organization Master  (NOM)
+https://navikt.github.io/nom/
+NOM skal inneholde og dele autoritativ informasjon om hvordan NAV er organisrt og hvem som jobber for NAV.
+
+### axsys
 
 
 ## test
