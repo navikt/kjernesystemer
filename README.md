@@ -2,8 +2,8 @@
 Tanken er å lage en liste over tjenestene flertallet av poer har behov for å forholde seg til.
 
 
-##Platform
-Nais.io
+## Platform
+Nais.io  
 https://design.nav.no
 
 ## sluttbruker
