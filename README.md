@@ -24,7 +24,8 @@ sms/epost til sluttbruker, vises på dittnav
 
 ### skjermingsløsningen
 Oppslag om bruker er ansatt i nav
-Blandt annet for bruk i tilgangskontroll?
+Blandt annet for bruk i tilgangskontroll  
+[team org](https://teamkatalog.nav.no/team/7cb86192-a6e9-42ed-be45-421807c96618#)
 
 ### digdir-krr
 Kontaktiformaskjon fra kontakt og reservaskjonsregistret.  
