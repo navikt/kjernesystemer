@@ -86,6 +86,9 @@ Eksempler på hvordan man kan komme i gang med en del sikkerhetsrelaterte greier
 
 [Users Prod](https://portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/MsGraphUsers) [Groups prod](https://portal.azure.com/#blade/Microsoft_AAD_IAM/GroupsManagementMenuBlade/AllGroups) [Applications prod](https://portal.azure.com/#blade/Microsoft_AAD_IAM/StartboardApplicationsMenuBlade/AppAppsPreview)
 
+### Auditlogging
+Logge hvem som er inne på brukere
+https://doc.nais.io/observability/logs/#audit-logs
 
 
 ## Test
