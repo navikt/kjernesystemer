@@ -21,9 +21,9 @@ https://pdldocs-navno.msappproxy.net/ekstern/index.html#
 
 ### brukernotifikasjoner
 sms/epost til sluttbruker, vises på dittnav  
-[#brukernotifikasjoner](https://nav-it.slack.com/archives/CR61BPH7G) lenke til dock i topic
-Overordnet dokumentasjon: https://navikt.github.io/dittnav-brukernotifikasjoner-intro/
-Teknisk dokumentasjon: https://navikt.github.io/brukernotifikasjon-docs/
+[#brukernotifikasjoner](https://nav-it.slack.com/archives/CR61BPH7G) lenke til dock i topic  
+Overordnet dokumentasjon: https://navikt.github.io/dittnav-brukernotifikasjoner-intro/  
+Teknisk dokumentasjon: https://navikt.github.io/brukernotifikasjon-docs/  
 
 ### skjermingsløsningen
 Oppslag om bruker er ansatt i nav
