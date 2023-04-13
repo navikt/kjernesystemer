@@ -36,10 +36,6 @@ Inneholder også informasjon om brukeren har reservert seg mot digital komunikas
 https://github.com/navikt/digdir-krr/wiki/dkif-(REST)-→-digdir-krr-proxy-(REST)
 [#team-rocket](https://nav-it.slack.com/archives/C01BXHWPLR4)
 
-### har bruker nivå 4?
-Kan bruker logge inn i løsningne dine?
-https://docs.digdir.no/docs/idporten/oidc/oidc_api_authlevel.html  
-Finnes det en fellestjeneste for denne? burde vi ha det?
 
 ### institusjonsopphold (inst2)
 [#team-rocket](https://nav-it.slack.com/archives/C01BXHWPLR4)
