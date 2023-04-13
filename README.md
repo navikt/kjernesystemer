@@ -65,15 +65,17 @@ https://navikt.github.io/nom/
 NOM skal inneholde og dele autoritativ informasjon om hvordan NAV er organisrt og hvem som jobber for NAV. Kilde for kontakinformasjon til veiledere og navansatte
 
 ### axsys
-Hvilket veiledere som har tilgang til hvilket enhet og tema.
+Hvilket veiledere som har tilgang til hvilket enhet og tema.  
+[axsys docs](https://navikt.github.io/axsys/)
 
 ### norg
-NORG som er rutingmaster i NAV og som inneholder alle navenheter som det rutes oppgaver til.
+NORG som er rutingmaster i NAV og som inneholder alle navenheter som det rutes oppgaver til.  
+[NORG docs](https://navikt.github.io/norg2/)
 
 ## Sikkerhet
 
 ### Security blueprints
-Eksempler på hvordan man kan komme i gang med en del sikkerhetsrelaterte greier
+Eksempler på hvordan man kan komme i gang med en del sikkerhetsrelaterte greier.  
 [Security blueprints](https://security.labs.nais.io/)
 
 ### Azure AD
