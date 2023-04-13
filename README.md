@@ -72,6 +72,3 @@ Hvilket veiledere som har tilgang til hvilket enhet og tema.
 NORG som er rutingmaster i NAV og som inneholder alle navenheter som det rutes oppgaver til.  
 [NORG docs](https://navikt.github.io/norg2/)
 
-### Ida
-Oprrette test veiledere
-https://ida.intern.nav.no
