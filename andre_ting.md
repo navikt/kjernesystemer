@@ -20,3 +20,7 @@ https://doc.nais.io/observability/logs/#audit-logs
 ### Dolly
 opprette test sluttbrukere
 https://dolly.ekstern.dev.nav.no/
+
+### Ida
+Oprrette test veiledere
+https://ida.intern.nav.no
